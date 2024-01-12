@@ -1,0 +1,22 @@
+{
+	"format_version": 2,
+	"header": {
+		"description": "Делает анимацию разрушения блока более приятной глазу",
+		"name": "Better mine progress bar",
+		"uuid": "824d1cbf-1854-4a23-b255-57468b480640",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 18, 0]
+	},
+	"modules": [
+		{
+			"description": "Делает анимацию разрушения блока более приятной глазу",
+			"type": "resources",
+			"uuid": "e303cf50-fbca-4737-a6ca-e65c9fe2a4b5",
+			"version": [1, 0, 0]
+		}
+	],
+	"metadata": {
+		"authors": ["killerypta"],
+		"url": "https://github.com/killerypta/Better-mine-progress-bar"
+	}
+}
